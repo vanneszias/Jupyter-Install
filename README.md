@@ -126,4 +126,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Uses JupyterLab for an enhanced notebook experience
 
 ---
-Made with ❤️ by @vanneszias 
+Made with ❤️ by [@vanneszias](https://github.com/vanneszias)
